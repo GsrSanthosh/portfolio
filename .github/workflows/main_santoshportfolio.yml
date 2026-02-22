@@ -52,4 +52,4 @@ jobs:
           app-name: 'santoshportfolio'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_055CF20E28AD4E168EA3BCF87C18FC2D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB79FACAF7F74B21B6C8810924F2735C }}
